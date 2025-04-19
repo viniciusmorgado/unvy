@@ -1,0 +1,8 @@
+[package]
+name = "unvy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.15.3"
+cxx = "1.0.157"
